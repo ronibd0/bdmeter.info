@@ -4,7 +4,7 @@ This a simple, minimalistic theme, which is inspired by [Apple's Newsroom page](
 
 All the templates herein use *grid css*, *flexbox* & *vanilla js*. You may,however, proceed and tweak everything as you wish.
 
-![Hugo Newsroom Theme](https://github.com/onweru/newsroom/blob/master/images/screenshot.png)
+![Hugo Newsroom Theme](https://github.com/ronibd0/newsroom/blob/master/images/screenshot.png)
 
 ## Features
 
@@ -23,7 +23,7 @@ For all content published using markdown, deeplinks will be added to the pages s
 Add this theme as a Git submodule inside your Hugo site folder:
 
 ```bash
-git submodule add https://github.com/onweru/newsroom.git themes/newsroom
+git submodule add https://github.com/ronibd0/newsroom.git themes/newsroom
 ```
 
 > Theme hugo sass and hugo-extended version.
@@ -42,26 +42,26 @@ You can configure the site using as follows:
 
 ## Start publishing
 
-Follow the `exampleSite/`; specifically, the [content](https://github.com/onweru/newsroom/tree/master/exampleSite/content/post) directory
+Follow the `exampleSite/`; specifically, the [content](https://github.com/ronibd0/newsroom/tree/master/exampleSite/content/post) directory
 
 ### Dark Mode
 
 Today most operating systems & browsers support dark mode. Like twitter, which automatically turns into dark mode when the user chooses darkmode, this theme does the same thing.
 
-![Dark Mode](https://github.com/onweru/newsroom/blob/master/images/screenshot-dark.png)
+![Dark Mode](https://github.com/ronibd0/newsroom/blob/master/images/screenshot-dark.png)
 
 ### Custom 404 Page
 
 | Normal Mode | Dark Mode |
 |--- | ---|
-| ![404 page](https://github.com/onweru/newsroom/blob/master/images/404.png) | ![404 page on dark Mode](https://github.com/onweru/newsroom/blob/master/images/404-dark.png)|
+| ![404 page](https://github.com/ronibd0/newsroom/blob/master/images/404.png) | ![404 page on dark Mode](https://github.com/ronibd0/newsroom/blob/master/images/404-dark.png)|
 
 ### Syntax highlighting
 
 | Normal Mode | Dark Mode |
 |--- | ---|
-| ![404 page](https://github.com/onweru/newsroom/blob/master/images/syntax.png) | ![404 page on dark Mode](https://github.com/onweru/newsroom/blob/master/images/syntax-dark.png)|
+| ![404 page](https://github.com/ronibd0/newsroom/blob/master/images/syntax.png) | ![404 page on dark Mode](https://github.com/ronibd0/newsroom/blob/master/images/syntax-dark.png)|
 
 ## License
 
-This theme is available under the [MIT license](https://github.com/onweru/newsroom/blob/master/LICENSE.md).
+This theme is available under the [MIT license](https://github.com/ronibd0/newsroom/blob/master/LICENSE.md).
